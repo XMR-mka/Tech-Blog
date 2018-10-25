@@ -1,11 +1,13 @@
 # CIS 141 Technical Blog
 **Maxwell Ka**
+
 kamaxwell41@gmail.com / mka@sierracollege.edu
+
 8PHVN-VYCHH-QKM76-CQM93-C37Y9
 
 ## About Me
 
-My name is Maxwell Ka and I am a part-time Sierra College student, I also work
+My name is Maxwell Ka and I am a part-time Sierra College student.  I also work
 part-time at a local Wireless Internet Service Provider in Grass Valley, where I
 live.  During my free time, I liked spending time with my friends and with my
 computer, which I already get to spend quite a lot of time with at work and school.
@@ -15,7 +17,7 @@ computer, which I already get to spend quite a lot of time with at work and scho
 
 ### Warm-Up: How Many Computers Are In This Room? (V-129)
 
-Ihere are 32 student workstations in V-129. [32 Computers]
+There are 32 student workstations in V-129. [32 Computers]
 There are (almost certainly) x + 1 cellphones in the room at any one time, where x= the number of students present,
 so each one of those counts as a computer (The one is for the professor). [33 + x computers]
 There is 1 projector, 1 landline phone, and 1 workstation at the teacher's desk. [36 + x computers]
