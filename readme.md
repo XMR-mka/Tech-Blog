@@ -192,3 +192,11 @@ Mikrotik is a manufacturer of routing and wireless equipment for ISPs and enterp
 	
 2. *You create a new storage pool for the following disks on your Windows 10 computer: 1 TB SATA, 1 TB SAS.  SATA and SAS are two different types of drives with different connectors and interfaces.  What is the maximum size you can allocate for your new storage space?* 
 	- The maximum size I can allocate for the new storage space is 2 TB, which would be with both of the 1 TB drives.  Storage Spaces allows you to pool the storage of different drives, regardless of connectors or interfaces.
+
+### Skill 2.3 Technical Blog Response
+
+Lab 09: Installing a Virtual Printer
+
+Lab 10: Share a Virtual Printer
+
+Lab 12: Configure Local User File Sharing
