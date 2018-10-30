@@ -209,11 +209,8 @@ Lab 12: Configure Local User File Sharing
 
 ### Skill 2.4 Technical Blog Response
 
-1. *You have 1,000 Windows 10-based desktop computers that require Microsoft Office 2016.  How will you deal with this?*
-	- a
-2. *You want to deploy a subset of your company's required apps to several hundred computers after Windows 10 has been deployed.  What technologies could you use to assist in this?*
-	- b
-3. *How might you make the Sales app available to your users?*
-	- c
-4. *After deploying the required apps to your users' devices and computers, you begin to receive complaints about slow startup times.  What can you do?*
-	- d
+1. *You work for a small business of 25 employees, split between two offices that are in different buildings but share a parking lot.
+You have been tasked with deploying Microsoft Office to all machines, Adobe CS Suite to the Marketing team, and QuickBooks to the Accounting Team.  You also want to allow users to selectively install Adobe Acrobat.
+What would you do?*
+	- I would use a Windows Provisioning Package and Windows Configuration Designer to distribute a single Windows Provisioning Package that includes Microsoft Office 2016, as well as a script to install it.  For Adobe CS Suite and QuickBooks I would again create a provisioning package and script to install the applications, then distribute them only to the appropriate departments.  To allow all users to selectively install Adobe Acrobat, I would use Configuration Manager to include Adobe Acrobat, and set it to be Available to users to install (Deployment Settings > Purpose > Available).
+	
