@@ -189,17 +189,17 @@ Mikrotik is a manufacturer of routing and wireless equipment for ISPs and enterp
 
 1. *You have a new desktop running Windows 10.  However, you try to copy your file repository and find out that you do not have enough disk space.  You have 400 GB of free disk space on your C drive and you have 3 smaller 500 GB drives.  What can you do?*
 	- I could combine all of the drives into one large spanned volume using Disk Management.  This would provide enough storage to copy my file repository over
-	
-2. *You create a new storage pool for the following disks on your Windows 10 computer: 1 TB SATA, 1 TB SAS.  SATA and SAS are two different types of drives with different connectors and interfaces.  What is the maximum size you can allocate for your new storage space?* 
+
+2. *You create a new storage pool for the following disks on your Windows 10 computer: 1 TB SATA, 1 TB SAS.  SATA and SAS are two different types of drives with different connectors and interfaces.  What is the maximum size you can allocate for your new storage space?*
 	- The maximum size I can allocate for the new storage space is 2 TB, which would be with both of the 1 TB drives.  Storage Spaces allows you to pool the storage of different drives, regardless of connectors or interfaces.
 
 ### Skill 2.3 Technical Blog Response
 
-Lab 09: Installing a Virtual Printer
+- Lab 09: Installing a Virtual Printer
 
-Lab 10: Share a Virtual Printer
+- Lab 10: Share a Virtual Printer
 
-Lab 12: Configure Local User File Sharing
+- Lab 12: Configure Local User File Sharing
 
 ### October 29 Warmup
 
@@ -213,4 +213,3 @@ Lab 12: Configure Local User File Sharing
 You have been tasked with deploying Microsoft Office to all machines, Adobe CS Suite to the Marketing team, and QuickBooks to the Accounting Team.  You also want to allow users to selectively install Adobe Acrobat.
 What would you do?*
 	- I would use a Windows Provisioning Package and Windows Configuration Designer to distribute a single Windows Provisioning Package that includes Microsoft Office 2016, as well as a script to install it.  For Adobe CS Suite and QuickBooks I would again create a provisioning package and script to install the applications, then distribute them only to the appropriate departments.  To allow all users to selectively install Adobe Acrobat, I would use Configuration Manager to include Adobe Acrobat, and set it to be Available to users to install (Deployment Settings > Purpose > Available).
-	
