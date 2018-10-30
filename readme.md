@@ -210,10 +210,10 @@ Lab 12: Configure Local User File Sharing
 ### Skill 2.4 Technical Blog Response
 
 1. *You have 1,000 Windows 10-based desktop computers that require Microsoft Office 2016.  How will you deal with this?*
-	- 
+	- a
 2. *You want to deploy a subset of your company's required apps to several hundred computers after Windows 10 has been deployed.  What technologies could you use to assist in this?*
-	- 
+	- b
 3. *How might you make the Sales app available to your users?*
-	- 
+	- c
 4. *After deploying the required apps to your users' devices and computers, you begin to receive complaints about slow startup times.  What can you do?*
-	- 
+	- d
