@@ -203,6 +203,17 @@ Lab 12: Configure Local User File Sharing
 
 ### October 29 Warmup
 
-1. Browse the Windows Store.  what app did you find that surprised you?  Is there an essential app to your life missing from the store?  What is it and where can one find it?
+1. *Browse the Windows Store.  what app did you find that surprised you?  Is there an essential app to your life missing from the store?  What is it and where can one find it?*
 	- I found a Bitcoin Miner app, which surprised me as most Mining applications are fairly non user-friendly, whereas this app is the opposite.
 	- One app that is essential to my life that can't be found on the Microsoft store is Excel.  The only way to acquire Excel is to purchase a license for it (Or Microsoft office) from Microsoft or a distributor.
+
+### Skill 2.4 Technical Blog Response
+
+1. *You have 1,000 Windows 10-based desktop computers that require Microsoft Office 2016.  How will you deal with this?*
+	- 
+2. *You want to deploy a subset of your company's required apps to several hundred computers after Windows 10 has been deployed.  What technologies could you use to assist in this?*
+	- 
+3. *How might you make the Sales app available to your users?*
+	- 
+4. *After deploying the required apps to your users' devices and computers, you begin to receive complaints about slow startup times.  What can you do?*
+	- 
