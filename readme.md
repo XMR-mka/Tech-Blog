@@ -205,7 +205,7 @@ Lab 12: Configure Local User File Sharing
 
 1. *Browse the Windows Store.  what app did you find that surprised you?  Is there an essential app to your life missing from the store?  What is it and where can one find it?*
 	- I found a Bitcoin Miner app, which surprised me as most Mining applications are fairly non user-friendly, whereas this app is the opposite.
-	- One app that is essential to my life that can't be found on the Microsoft store is Excel.  The only way to acquire Excel is to purchase a license for it (Or Microsoft office) from Microsoft or a distributor.
+	- One app that is essential to my life that can't be found on the Microsoft store is Excel.  The only way to acquire Excel is to purchase a license for it (Or Microsoft office) from Microsoft or a distributor.  Nevermind, Excel is on the MS store, but at a huge markup compared to purchasing Office 2019 as a whole.
 
 ### Skill 2.4 Technical Blog Response
 
