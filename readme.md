@@ -197,25 +197,50 @@ Mikrotik is a manufacturer of routing and wireless equipment for ISPs and enterp
 
 Lab 09: Installing a Virtual Printer
 
-1. How many printer devices are installed on this machine?
+1. *How many printer devices are installed on this machine?*
  - 3 
-2. How many printing devices are now displayed in the Devices and Printers window?
+2. *How many printing devices are now displayed in the Devices and Printers window?*
  - 4
-3. What is the title of the new window that has appeared?
+3. *What is the title of the new window that has appeared?*
  - Save print output as
-4. What extension is placed on the Printed File document now saved on the desktop?
+4. *What extension is placed on the Printed File document now saved on the desktop?*
  - .prn
-5. Besides the original types message, what else is displayed in this Printed File?
+5. *Besides the original types message, what else is displayed in this Printed File?*
  - The title and the page number
-6. Which device has become the default printer now that the Virtual Printer has been
+6. *Which device has become the default printer now that the Virtual Printer has been*
 removed?
  - Microsoft Print to PDF
 
+Lab 10: Share a Virtual Printer
 
-- Lab 10: Share a Virtual Printer
+1. *How many printer devices are installed on this machine?*
+ - 3
+2. *How many printing devices are now displayed in the Devices and Printers window?*
+ - 4
+3. *What is now shown in the description at the bottom of the window?*
+ - It shows that it is in a sharing state
+4. *How many printer devices are installed on the PC1 machine?*
+ - 3
+5. *How many printers are now listed in the Devices and Printers window?*
+ - 4
+6. *What is the title of the window that opens?*
+ - Save print output as
+7. *Did the file appear on the desktop?*
+ - Yes
 
-- Lab 12: Configure Local User File Sharing
+Lab 12: Configure Local User File Sharing
 
+1. *Which account type was created for the TEST user account?*
+ - Standard User
+2. *Who is the folder currently shared with?*
+ - student
+3. *Which three user accounts can this directory be shared with?*
+ - student, Test, Everyone
+4. *Which two accounts are now listed?*
+ - Test and student
+5. *What message appears?*
+ - Access is denied
+ 
 ### October 29 Warmup
 
 1. *Browse the Windows Store.  what app did you find that surprised you?  Is there an essential app to your life missing from the store?  What is it and where can one find it?*
