@@ -195,7 +195,22 @@ Mikrotik is a manufacturer of routing and wireless equipment for ISPs and enterp
 
 ### Skill 2.3 Technical Blog Response
 
-- Lab 09: Installing a Virtual Printer
+Lab 09: Installing a Virtual Printer
+
+1. How many printer devices are installed on this machine?
+ - 3 
+2. How many printing devices are now displayed in the Devices and Printers window?
+ - 4
+3. What is the title of the new window that has appeared?
+ - Save print output as
+4. What extension is placed on the Printed File document now saved on the desktop?
+ - .prn
+5. Besides the original types message, what else is displayed in this Printed File?
+ - The title and the page number
+6. Which device has become the default printer now that the Virtual Printer has been
+removed?
+ - Microsoft Print to PDF
+
 
 - Lab 10: Share a Virtual Printer
 
