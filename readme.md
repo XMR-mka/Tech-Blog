@@ -253,3 +253,20 @@ Lab 12: Configure Local User File Sharing
 You have been tasked with deploying Microsoft Office to all machines, Adobe CS Suite to the Marketing team, and QuickBooks to the Accounting Team.  You also want to allow users to selectively install Adobe Acrobat.
 What would you do?*
 	- I would use a Windows Provisioning Package and Windows Configuration Designer to distribute a single Windows Provisioning Package that includes Microsoft Office 2016, as well as a script to install it.  For Adobe CS Suite and QuickBooks I would again create a provisioning package and script to install the applications, then distribute them only to the appropriate departments.  To allow all users to selectively install Adobe Acrobat, I would use Configuration Manager to include Adobe Acrobat, and set it to be Available to users to install (Deployment Settings > Purpose > Available).
+	
+### Skill 2.5 Technical Blog Response
+
+1. *Given the message (as shown above), of the three possible reasons listed, which one is
+the most likely to be the cause of the remote connection failure?*
+	- Remote access to the server is not enabled
+2. *After the Remote Desktop successfully connects, what is displayed on the top of the
+screen that identifies PC1 is being used?*
+	- The IP address of PC1
+3. *Why is it necessary to login to the PC1 machine again?*
+	- Because PC2 made a change to the desktop
+4. *Is the file created by PC2 on the desktop?*
+	- Yes
+5. *Joe is a new IT Director who is tasked with making sure his Windows 10 computer users can be assisted remotely. On his first day at the company, Joe was told that the Remote Assistance feature was not working for users after a new firewall was installed. What could be causing the problem and how should it be addressed?*
+	- The firewall may be blocking the port for remote desktop protocol.  To fix this, one could try allowing the RDP port through the firewall.
+6. *You are an administrator at the Contoso Corporation. You have a 12-person help desk that supports about 10,000 users spread out over a 5-building campus. You don’t have enough people to provide support staff visits to a user who is having problems. Describe the actions you can take to support your company users.*
+	- I would provide support to the company users via Remote Desktop Connection, rather than visiting the staff in-person.  I could then provide the same level of support much more conveniently.  
