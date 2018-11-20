@@ -270,3 +270,25 @@ screen that identifies PC1 is being used?*
 	- The firewall may be blocking the port for remote desktop protocol.  To fix this, one could try allowing the RDP port through the firewall.
 6. *You are an administrator at the Contoso Corporation. You have a 12-person help desk that supports about 10,000 users spread out over a 5-building campus. You don’t have enough people to provide support staff visits to a user who is having problems. Describe the actions you can take to support your company users.*
 	- I would provide support to the company users via Remote Desktop Connection, rather than visiting the staff in-person.  I could then provide the same level of support much more conveniently.  
+
+### Skill 3.1 Technical Blog Response
+
+1. *Why is it beneficial to leave the Allow scheduled maintenance to wake up my computer
+at the schedule time option check-marked?*
+	- It is beneficial because if the PC is asleep and the box is not checked, the maintenance might not run
+
+2. *After Start Maintenance has completed, what message is shown next to Automatic
+Maintenance? (hint: Needed/Not Needed)?*  
+	- No action needed
+	
+3. *What would occur if the Value data field used a value of 0?*
+	- Nothing, maintenance would stay enabled
+	
+4. *You are an IT manager and would like to use a virtual machine to keep up to date on the latest development in Windows 10 and access the preview builds.  How would you go about doing this?*
+	- I would set up the VM with Windows 10, and then enroll it in the 'Windows Insider Program' that is located in the Update & 	Security area of Windows settings
+
+5. *As an IT manager, one of the departments you support is Physical Plant Operations.  They use a specialized application to run power generators that does not need access to the Internet or require any operating software updates.  Which branch of Windows 10 will you recommend for use by the Physical Plant Operations department?  Why?*
+	- Long Term Servicing Channel, because it does not push any new updates to machines, only bug fixes and security updates.  In 		addition, it removes a number of windows apps that may take up some amount of space.
+
+6. *As an IT manager, you have developed a custom image of Windows 10 that is deployed to all general users.  You do not want the users to be able to install additional software, including applications found in the Windows Store.  How could you prevent users from installing apps from the Windows Store?*
+	- I would do this by editing the group policies for these users/group of users so that they cannot install applications from the 	Windows Store.
