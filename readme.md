@@ -107,19 +107,19 @@ Mikrotik is a manufacturer of routing and wireless equipment for ISPs and enterp
 ### Skill 1.3 Technical Blog Response
 
 1. *Create a list of hardware that a user might have that requires a driver installation*
-		- Mouse, Keyboard, Scanner, Printer, Headset, Wireless Adapter, external disc reader
+	- Mouse, Keyboard, Scanner, Printer, Headset, Wireless Adapter, external disc reader
 2. *Locate a device from your list and install it on Windows 10*
-		- I installed an Alfa Wireless 802.11ac wireless adapter.
+	- I installed an Alfa Wireless 802.11ac wireless adapter.
 3. *Locate the version of the driver and see if it is the most current version available*
-		- It was not the most current version of the driver, [so I updated it](https://imgur.com/a/D7t3dMb)
+	- It was not the most current version of the driver, [so I updated it](https://imgur.com/a/D7t3dMb)
 4. *Disable the device.  Does this affect Windows performance?  What happens when you disable other devices?  Try disabling your network card - how was that experience?*
-		- When I disabled the device, it did not affect windows performance as I have another wireless adapter in my laptop.
+	- When I disabled the device, it did not affect windows performance as I have another wireless adapter in my laptop.
 5. *Why would I disable updates over metered connections?  Capture a screenshot of where you disabled this feature*
-		- I would disable updates over metered connections if I was using a connection that had limited data. [I did this here](https://imgur.com/a/KRLa2G7)
+	- I would disable updates over metered connections if I was using a connection that had limited data. [I did this here](https://imgur.com/a/KRLa2G7)
 6. *Perform a rollback of a driver update.  Note, you will need to access a different USB device if you have been working with a printer*
-		- [I did it](https://imgur.com/a/T0kEoVq)
+	- [I did it](https://imgur.com/a/T0kEoVq)
 7. *After installing a USB microphone, a system has extremely poor performance.  How would you check to see if the performance issues are related to the USB microphone?*
-		- I would first check by rolling back the drivers for the USB microphone and removing the device, and seeing if that resolves any performance issues
+	- I would first check by rolling back the drivers for the USB microphone and removing the device, and seeing if that resolves any performance issues
 
 ### Skill 1.4 Technical Blog Response
 
