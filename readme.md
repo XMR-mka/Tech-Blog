@@ -173,7 +173,7 @@ Mikrotik is a manufacturer of routing and wireless equipment for ISPs and enterp
 ### October 8 Warmup response
 
 1. *What is a software bug? Describe the bug that is delaying the release of the 1809 update for Windows 10?*
-		- A software bug is a flaw in software that causes it to behave in an unwanted or unexpected manner.  The bug in particular that is delaying the release of Microsoft's 1809 update is one that can cause user file deletion, as well as other minor issues such as incorrect CPU utilization metrics or broken audio drivers.
+	- A software bug is a flaw in software that causes it to behave in an unwanted or unexpected manner.  The bug in particular that is delaying the release of Microsoft's 1809 update is one that can cause user file deletion, as well as other minor issues such as incorrect CPU utilization metrics or broken audio drivers.
 
 ### Skill 2.1 Technical Blog Response
 
