@@ -147,17 +147,17 @@ Mikrotik is a manufacturer of routing and wireless equipment for ISPs and enterp
     - UAC is User Access Control, and it is important because it allows a user to run less programs with privileged access, as well as be more productive when privileged access is not required.  Microsoft introduced UAC with the Windows Vista and Windows Server 2008 editions.  The UAC on my Sierra Host machine is nearly identical to that of the VM.
 
 2. *Skill 1.5 Notes*
-		-	LSDO: Local, Site, Domain, Organizational units - order of operations for user privileges in an enterprise environment
-		- Group Policy
-		 	- Local Group Policy Editor on Windows 10
-				- Centralized Control for:
-					- User settings
-					- Computer settings
-					- Control and Deployment of Applications
-					- Control User Experience
+	- LSDO: Local, Site, Domain, Organizational units - order of operations for user privileges in an enterprise environment
+	- Group Policy
+		1. Local Group Policy Editor on Windows 10
+			- Centralized Control for:
+				- User settings
+				- Computer settings
+				- Control and Deployment of Applications
+				- Control User Experience
 			- What does it change?
 			- gpupdate /force OR log off to apply Group Policy changes.
-		- GPEdit Challenge
+		2. GPEdit Challenge
 			- Can you:
 				- *Block all Microsoft accounts?*
 					- Computer configuration -> Windows Settings -> Security Settings - >
