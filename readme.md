@@ -124,22 +124,22 @@ Mikrotik is a manufacturer of routing and wireless equipment for ISPs and enterp
 ### Skill 1.4 Technical Blog Response
 
 1. *Using your textbook, ITPro.tv videos and notes, as well as Microsoft documentation, research one of the following post-installation activities, create a step-by-step guide, and test out your guide on your VM*
-		- Configure and Customize the user interface per device type
-		- Configure accessibility options
-		- Configure Cortana
-		- Configure Microsoft Edge
-		- Configure Microsoft Internet Explorer
-		- Configure Hyper-V
-		- *Configure Power settings*
-			1. Navigate to Power & Sleep in System settings
-			2. Configure duration to turn off screen after when on battery power
-			3. Configure duration to turn off screen after when charging
-			4. Configure duration to sleep after when on battery power
-			5. Configure duration to sleep after when charing
-			6. To the right of the screen, click "Additional power settings"
-			7. Configure what the power button does
-			8. Configure what closing the lid does
-			9. Create a power plan
+	- Configure and Customize the user interface per device type
+	- Configure accessibility options
+	- Configure Cortana
+	- Configure Microsoft Edge
+	- Configure Microsoft Internet Explorer
+	- Configure Hyper-V
+	- *Configure Power settings*
+		1. Navigate to Power & Sleep in System settings
+		2. Configure duration to turn off screen after when on battery power
+		3. Configure duration to turn off screen after when charging
+		4. Configure duration to sleep after when on battery power
+		5. Configure duration to sleep after when charing
+		6. To the right of the screen, click "Additional power settings"
+		7. Configure what the power button does
+		8. Configure what closing the lid does
+		9. Create a power plan
 
 ### Skill 1.5 Technical Blog response
 
