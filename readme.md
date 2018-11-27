@@ -292,3 +292,11 @@ Maintenance? (hint: Needed/Not Needed)?*
 
 6. *As an IT manager, you have developed a custom image of Windows 10 that is deployed to all general users.  You do not want the users to be able to install additional software, including applications found in the Windows Store.  How could you prevent users from installing apps from the Windows Store?*
 	- I would do this by editing the group policies for these users/group of users so that they cannot install applications from the 	Windows Store.
+	
+### Skill 3.2 + 3.3 Technical Blog Response
+
+1. *You are an IT manager and several computers belonging to support staff were recently upgraded from Windows 7 Pro to Windows 10 Enterprise.  You have received several complaints that "their computers are slow", "apps stop responding" and "websites are slow to load".  Describe the monitoring tools you would use to help diagnose the issues.*
+	- To monitor the performance and issues described for these computers, I would utilize a combination of Task Manager, 			Performance Monitor, and Resource Monitor to help diagnose the problem.  From there, I should be able to determine where the 		degradation in performance exists.
+
+2. *Your Sierra College instructor just gave you a free laptop (not going to happen).  You want to make sure that the contents of that machine are periodically backed up and that you have access to previous versions of files.  Describe the data recovery strategies you would implement on your new machine.*
+	- First, I would enable system protection for Local Disk to let me configure restore points.  Then I would use task scheduler to 	create scheduled restore points.  Then, I would enable File History via the control panel to keep previous versions of files.
